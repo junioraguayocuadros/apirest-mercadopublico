@@ -4,7 +4,7 @@
   "description": "API Mercado Publico Chile",
   "main": "index.js",
   "scripts": {
-    "start" : "npm run dev"
+    "start" : "node src/index.js"
   },
   "keywords": [],
   "author": {"name" : "Junior Erny Aguayo Cuadros",
