@@ -1,0 +1,18 @@
+[
+    {
+        "ID" : "477702",
+        "Nombre_Gran_Compra" : "SERVICIO SALUD METROPOLITANO OCCIDENTE",
+        "Comprador" : "COMPRA TARJETAS DE ALIMENTACION",
+        "Fecha_Inicio" : "30-07-2019 100:11:00",
+        "Fecha_Fin" : "30-07-2019 100:11:00",
+        "Estado" : "Invitado"
+    },
+    {
+        "ID" : "47693",
+        "Nombre_Gran_Compra" : "I MUNICIPALIDAD DE ARICA",
+        "Comprador" : "ADQUISICION DE 02 CAMIONES COMPACTADORES",
+        "Fecha_Inicio" : "30-07-2019 100:11:00",
+        "Fecha_Fin" : "30-07-2019 100:11:00",
+        "Estado" : "Invitado"
+    }
+]
