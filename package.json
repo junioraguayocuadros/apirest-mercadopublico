@@ -4,12 +4,12 @@
   "description": "API Mercado Publico Chile",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "start" : "npm run dev"
   },
   "keywords": [],
   "author": {"name" : "Junior Erny Aguayo Cuadros",
-              "email" : "junior.aguayo.cuadros@gmail.com",
-              "url" :  "http://jraguayocuadros.com"},
+              "email" : "junior.aguayo.cuadros@gmail.com"
+            },
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
