@@ -2,7 +2,7 @@ const { Router } = require('express');
 const router = Router();
 const _ = require('underscore');
 
-const gcompras = require('../routes/mp.json');
+const gcompras = require('../scraping/mp.json');
 //console.log(gcompras);
 router.get('/',(req, res) =>{
     res.json(gcompras);
