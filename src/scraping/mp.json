@@ -1,0 +1,66 @@
+[
+      {
+            "ID": "47755",
+            "Nombre_Gran_Compra": "SERVICIOS DE ARRENDAMIENTO DE IMPRESORAS Y SERVICIOS COMPLEMENTARIOS",
+            "Comprador": "SERVICIO DE REGISTRO CIVIL E IDENTIFICACION ",
+            "Fecha_Inicio": "01-08-2019 11:10:00",
+            "Fecha_Fin": "16-08-2019 23:59:00",
+            "Estado": "Invitando"
+      },
+      {
+            "ID": "47752",
+            "Nombre_Gran_Compra": "SERVICIO DE ?EJECUCIÓN DE 4 CURSOS PARA EL PLAN DE FORMACIÓN DE DIRECTORES 2019",
+            "Comprador": "CENTRO DE PERFECCIONAMIENTO EXPERI E INV",
+            "Fecha_Inicio": "01-08-2019 9:21:00",
+            "Fecha_Fin": "16-08-2019 23:59:00",
+            "Estado": "Invitando"
+      },
+      {
+            "ID": "47749",
+            "Nombre_Gran_Compra": "SERVICIO PARA EL DESARROLLO Y MANTENCIÓN DE SISTEMAS AS400 Y WEB DE FUNDACIÓN INTEGRA",
+            "Comprador": "FUNDACIÓN EDUCACIONAL PARA EL DESARROLLO INTEGRAL DE LA NIÑEZ",
+            "Fecha_Inicio": "01-08-2019 10:48:00",
+            "Fecha_Fin": "16-08-2019 23:59:00",
+            "Estado": "Invitando"
+      },
+      {
+            "ID": "47748",
+            "Nombre_Gran_Compra": "CAMPANA COMUNICACIONAL BENEFICIOS ESTUDIANTILES EDUCACIN SUPERIOR 2020",
+            "Comprador": "SUBSECRETARIA DEL MINISTERIO DE EDUCACION PUBLICA",
+            "Fecha_Inicio": "31-07-2019 16:42:00",
+            "Fecha_Fin": "14-08-2019 23:59:00",
+            "Estado": "Invitando"
+      },
+      {
+            "ID": "47733",
+            "Nombre_Gran_Compra": "3 TRIMESTRE INSUMOS COMPUTACIONALES",
+            "Comprador": "CORPORACIÓN ADMINISTRATIVA DEL PODER JUDICIAL",
+            "Fecha_Inicio": "31-07-2019 16:37:00",
+            "Fecha_Fin": "14-08-2019 23:59:00",
+            "Estado": "Invitando"
+      },
+      {
+            "ID": "47729",
+            "Nombre_Gran_Compra": "GRAN COMPRA MATERIAL DIDÁCTICO NO FUNGIBLE",
+            "Comprador": "JUNTA NACIONAL DE JARDINES INFANTILES",
+            "Fecha_Inicio": "31-07-2019 10:04:00",
+            "Fecha_Fin": "14-08-2019 23:59:00",
+            "Estado": "Invitando"
+      },
+      {
+            "ID": "47726",
+            "Nombre_Gran_Compra": "SERVICIO LOGÍSTICO -BIBLIOTECAS CRA 2020",
+            "Comprador": "SUBSECRETARIA DEL MINISTERIO DE EDUCACION PUBLICA",
+            "Fecha_Inicio": "31-07-2019 10:01:00",
+            "Fecha_Fin": "14-08-2019 23:59:00",
+            "Estado": "Invitando"
+      },
+      {
+            "ID": "47725",
+            "Nombre_Gran_Compra": "ADQUISICIÓN VEHÍCULOS PARA UNIDADES ESPECIALIZADAS DE CARABINEROS",
+            "Comprador": "GOBIERNO REGIONAL DE TARAPACÁ",
+            "Fecha_Inicio": "30-07-2019 18:30:00",
+            "Fecha_Fin": "16-08-2019 23:59:00",
+            "Estado": "Invitando"
+      }
+]
